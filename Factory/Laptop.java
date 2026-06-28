@@ -1,4 +1,4 @@
-
+package Factory;
 public abstract class Laptop {
 
     protected String marca;

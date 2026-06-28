@@ -1,4 +1,4 @@
-
+package Factory;
 public class LaptopBasica extends Laptop {
 
     public LaptopBasica(String marca, String modelo, int anioFabricacion,
